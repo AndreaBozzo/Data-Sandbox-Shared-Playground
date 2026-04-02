@@ -10,10 +10,10 @@ You don't need to install anything locally. Click the buttons below to open the 
 
 | Challenge / Exercise | Description | Open in Colab |
 | :--- | :--- | :--- |
-| **SAS to Python: Missing Rows** | How to track down dropped rows and debug `NaN` handling using Set Differences and `dataprof`. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/main/notebooks/sas_migrations/01_finding_missing_rows.ipynb) |
-| **Profiling Messy CSVs** | Run profiling on diverse data types using `dataprof`. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/main/notebooks/data_quality/01_profiling_messy_csvs_with_dataprof.ipynb) |
-| **Stop Putting DBs in Columns** | Example of why nesting complex structures in pandas columns is an anti-pattern. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/main/notebooks/pandas_antipatterns/01_stop_putting_dbs_in_columns.ipynb) |
-| **Data Leakage (Startup Case)** | Exploring a complex data leakage issue similar to one experienced by a major startup. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/main/notebooks/data_leakage/01_startup_data_leakage.ipynb) |
+| **SAS to Python: Missing Rows** | How to track down dropped rows and debug `NaN` handling using Set Differences and `dataprof`. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/master/notebooks/sas_migrations/01_finding_missing_rows.ipynb) |
+| **Profiling Messy CSVs** | Run profiling on diverse data types using `dataprof`. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/master/notebooks/data_quality/01_profiling_messy_csvs_with_dataprof.ipynb) |
+| **Stop Putting DBs in Columns** | Example of why nesting complex structures in pandas columns is an anti-pattern. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/master/notebooks/pandas_antipatterns/01_stop_putting_dbs_in_columns.ipynb) |
+| **Data Leakage (Startup Case)** | Exploring a complex data leakage issue similar to one experienced by a major startup. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/master/notebooks/data_leakage/01_startup_data_leakage.ipynb) |
 
 ## 💻 Local Installation (For advanced users)
 

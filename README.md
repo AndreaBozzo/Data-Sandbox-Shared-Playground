@@ -25,4 +25,7 @@ If you prefer to run this locally, the repository is managed via standard Python
 git clone https://github.com/AndreaBozzo/prac.git
 cd prac
 pip install . 
+
+# or use uv
+uv sync
 ```

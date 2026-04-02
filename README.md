@@ -15,6 +15,7 @@ You don't need to install anything locally. Click the buttons below to open the 
 | **Stop Putting DBs in Columns** | Example of why nesting complex structures in pandas columns is an anti-pattern. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/master/notebooks/pandas_antipatterns/01_stop_putting_dbs_in_columns.ipynb) |
 | **Data Leakage (Startup Case)** | Exploring a complex data leakage issue similar to one experienced by a major startup. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/master/notebooks/data_leakage/01_startup_data_leakage.ipynb) |
 | **Leakage at Scale (Polars + DataFusion)** | Advanced leakage detection using Polars LazyFrames, Arrow C Interface, and DataFusion SQL. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/master/notebooks/data_leakage/02_leakage_detection_at_scale.ipynb) |
+| **Salting Skewed GroupBy (PySpark)** | Fixing aggregation bottlenecks in Databricks/Spark using two-phase salted aggregation. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaBozzo/prac/blob/master/notebooks/spark_performance/01_salting_skewed_groupby.ipynb) |
 
 ## 💻 Local Installation (For advanced users)
 

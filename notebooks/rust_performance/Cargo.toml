@@ -1,0 +1,8 @@
+[package]
+name = "rust-performance"
+version = "0.1.0"
+edition = "2021"
+
+[[example]]
+name = "merge_benchmark"
+path = "examples/merge_benchmark.rs"

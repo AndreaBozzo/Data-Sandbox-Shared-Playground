@@ -19,6 +19,8 @@ dependencies = [
     "pyarrow",
     "datafusion",
     "pyspark",
+    "faker",
+    "duckdb",
 ]
 
 [build-system]

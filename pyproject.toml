@@ -1,7 +1,7 @@
 [project]
 name = "prac"
 version = "0.1.0"
-description = "Add your description here"
+description = "A collaborative collection of real-world data engineering challenges, migrations, and debugging exercises."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -15,6 +15,9 @@ dependencies = [
     "statsmodels",
     "jupyterlab",
     "ruff>=0.15.8",
+    "polars",
+    "pyarrow",
+    "datafusion",
 ]
 
 [build-system]

@@ -1,6 +1,6 @@
 # 🛝 Data Sandbox & Shared Playground
 
-A collaborative repository gathering real-world data engineering challenges, tricky migrations (like SAS to Python), and debugging exercises.
+A collaborative repository gathering real-world data engineering challenges, tricky migrations (like SAS to Python), and debugging exercises. This is a WIP and any help is welcome as we try to make it a useful resource for data people.
 
 Whether you are losing rows in a Pandas merge, fighting with `NaN` values, or migrating legacy code, you'll find templates and interactive fixes here.
 
